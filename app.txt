@@ -21,3 +21,17 @@ git merge coupon
 git branch coupon
 git switch coupon
 //main branch(master branch)
+
+git merge 
+-> 3-way merge, 
+-> fast-forward merge (git merge --no-ff '브랜치명')
+
+git branch -d(병합이 완료된 브랜치)
+git branch -D(병합하지 않은 브랜치 삭제)
+
+git rebase : 브랜치의 시작점을 옮김 -> fast-forward merge로 연결
+why? 브랜치의 수가 많으면 가독성이 떨어짐, 간단하고 짧게 만들기 위해
+단점? conflict 발생이 많다
+
+//squash and merge :
+git merge --squash
