@@ -9,3 +9,6 @@ git .
 git status
 git log --all --oneline
 git restore
+
+app.txt branch
+git diff
