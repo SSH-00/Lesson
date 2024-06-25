@@ -1,4 +1,5 @@
-app test 메인브랜치 수정
+app test 쿠폰브랜치에서 수정
+>>>>>>> coupon
 additional sentence
 git add
 git commit -m
@@ -16,3 +17,7 @@ git diff
 branch, coupon, main, master
 
 git merge coupon
+
+git branch coupon
+git switch coupon
+//main branch(master branch)
