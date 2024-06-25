@@ -1,4 +1,4 @@
-app test 쿠폰브랜치에서 수정
+app test 쿠폰브랜치에서 수정 // git push, git pull conflict 테스트
 >>>>>>> coupon
 additional sentence
 git add
