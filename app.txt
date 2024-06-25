@@ -4,3 +4,8 @@ git add
 git commit -m
 staging area -> repository
 'staging'
+
+git .
+git status
+git log --all --oneline
+git restore
