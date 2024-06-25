@@ -1,2 +1,4 @@
 app test
 additional sentence
+git add
+git commit -m
