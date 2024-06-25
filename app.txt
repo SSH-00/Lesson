@@ -1,4 +1,4 @@
-app test
+app test 쿠폰브랜치에서 수정
 additional sentence
 git add
 git commit -m
